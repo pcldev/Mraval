@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576" height="567.523" viewBox="0 0 576 567.523">
+  <defs>
+    <filter id="Rectangle_3" x="22" y="125" width="554" height="385" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5f8fff"/>
+      <stop offset="1" stop-color="#50b8ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="6.216" height="9.846" rx="3.108" transform="translate(0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="image1" transform="translate(33 -479)">
+    <path id="Tracé_1" data-name="Tracé 1" d="M287.44,15.783c34.029,28.051,64.054,42.077,124.105,48.088,6.006.6,21.23,1.741,28.024,4.007,18.016,6.011,12.011,16.029,48.041,28.051S539.655,136,529.646,190.1s20.017,62.113,10.009,126.23-32.028,38.07-36.031,106.194,4,128.234-92.079,110.2-66.056,50.092-150.128,24.044-66.056,34.062-120.1,0S97.277,514.693,41.23,484.638,49.236,382.452,25.216,326.35s-42.036-100.183,0-118.216,110.094-56.1,138.118-136.249S253.411-12.268,287.44,15.783Z" transform="translate(-33 479)" fill="#51b5ff" opacity="0.05"/>
+    <g transform="matrix(1, 0, 0, 1, -33, 479)" filter="url(#Rectangle_3)">
+      <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(47 143)" fill="#fff">
+        <path d="M 484 324.5 L 10 324.5 C 4.761687278747559 324.5 0.5 320.2383117675781 0.5 315 L 0.5 10 C 0.5 4.761687278747559 4.761687278747559 0.5 10 0.5 L 484 0.5 C 489.2383117675781 0.5 493.5 4.761687278747559 493.5 10 L 493.5 315 C 493.5 320.2383117675781 489.2383117675781 324.5 484 324.5 Z" stroke="none"/>
+        <path d="M 10 1 C 5.037384033203125 1 1 5.037384033203125 1 10 L 1 315 C 1 319.9626159667969 5.037384033203125 324 10 324 L 484 324 C 488.9626159667969 324 493 319.9626159667969 493 315 L 493 10 C 493 5.037384033203125 488.9626159667969 1 484 1 L 10 1 M 10 0 L 484 0 C 489.5228881835938 0 494 4.47711181640625 494 10 L 494 315 C 494 320.5228881835938 489.5228881835938 325 484 325 L 10 325 C 4.47711181640625 325 0 320.5228881835938 0 315 L 0 10 C 0 4.47711181640625 4.47711181640625 0 10 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(107.365 677.419)">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(0 0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(69.511 64.001)" fill="#50b7ff"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(5.086 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(5.086 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(5.086 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_14" data-name="Groupe 14" transform="translate(107.365 788.685)">
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(69.511 64.001)" fill="#5e91ff"/>
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(5.086 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(5.086 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(5.086 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_15" data-name="Groupe 15" transform="translate(105.451 677.419)">
+      <rect id="Rectangle_11-3" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(115.286 0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10-3" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(184.797 64.001)" fill="#22ebc0"/>
+      <rect id="Rectangle_12-3" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(120.372 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13-3" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(120.372 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14-3" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(120.372 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_16" data-name="Groupe 16" transform="translate(220.737 788.685)">
+      <rect id="Rectangle_11-4" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10-4" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(69.511 64.001)" fill="#5fecf1"/>
+      <rect id="Rectangle_12-4" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(5.086 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13-4" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(5.086 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14-4" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(5.086 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_16-2" data-name="Groupe 16" transform="translate(333.737 788.685)">
+      <rect id="Rectangle_11-5" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10-5" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(69.511 64.001)" fill="#8667f7"/>
+      <rect id="Rectangle_12-5" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(5.086 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13-5" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(5.086 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14-5" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(5.086 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_16-3" data-name="Groupe 16" transform="translate(212.737 891.685)">
+      <rect id="Rectangle_11-6" data-name="Rectangle 11" width="64.789" height="15.279" rx="7.64" transform="translate(22 12)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_14-6" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(46.086 18.144)" fill="#fff"/>
+    </g>
+    <g id="Groupe_17" data-name="Groupe 17" transform="translate(334.023 677.419)">
+      <rect id="Rectangle_11-7" data-name="Rectangle 11" width="95.789" height="90.279" rx="8" transform="translate(0 0)" fill="#f8f9fb"/>
+      <circle id="Ellipse_10-6" data-name="Ellipse 10" cx="10.596" cy="10.596" r="10.596" transform="translate(69.511 64.001)" fill="#f4b3af"/>
+      <rect id="Rectangle_12-6" data-name="Rectangle 12" width="55.1" height="2.543" rx="1.272" transform="translate(5.086 17.547)" fill="#d6dde7"/>
+      <rect id="Rectangle_13-6" data-name="Rectangle 13" width="33.908" height="2.543" rx="1.272" transform="translate(5.086 28.345)" fill="#d6dde7"/>
+      <rect id="Rectangle_14-7" data-name="Rectangle 14" width="16.954" height="2.543" rx="1.272" transform="translate(5.086 39.144)" fill="#d6dde7"/>
+    </g>
+    <g id="Groupe_22" data-name="Groupe 22" transform="translate(30.954 632.172)">
+      <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" transform="translate(121.22 269.567)" clip-path="url(#clip-path)">
+        <path id="add" d="M5.484,2.367H3.847V.73a.74.74,0,1,0-1.48,0V2.367H.73a.74.74,0,1,0,0,1.48H2.367V5.484a.74.74,0,1,0,1.48,0V3.847H5.484a.74.74,0,1,0,0-1.48Z" transform="translate(0.002 1.816)" fill="#fff"/>
+      </g>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="3" cy="3" r="3" transform="translate(0.046 -0.172)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="3" cy="3" r="3" transform="translate(42 632)" fill="#fff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="3" cy="3" r="3" transform="translate(53 632)" fill="#fff"/>
+  </g>
+</svg>
